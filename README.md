@@ -6,7 +6,7 @@ Self studying neural network construction with Tensorflow. The textbook I am usi
 
 Study the operations behind neural networks, including matrix operations, gradient descent and back propagation.
 
-Code: categorical classification.
+Code: multiclass classification.
 
 Dataset: MNIST hand written digits.
 
